@@ -1,3 +1,5 @@
+import { NavBar } from "./NavBar.jsx";
+
 export const Ragnar = () => {
-  return <div>Ragnar</div>;
+  return <NavBar />;
 };
